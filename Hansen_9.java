@@ -40,7 +40,7 @@ public class Hansen_9 extends Menu
     }
     
    /*************************************************************************************
-   sortArrayAsc - Sorts an array from lowest to highest
+   sortArrayAsc - Sorts an array from lowest to highest values
    Accepts: List of Integers
    Returns: Sorted List of integers
    *************************************************************************************/
